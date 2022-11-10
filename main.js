@@ -25,6 +25,6 @@ document.getElementById("#theme").innerHTML =
 
 
 document.querySelector("#cards").innerHTML =
-    createCard("24/12", "quinta", createGame("Brazil", "16:00", "servia")) +
+    createCard("24/11", "quinta", createGame("Brazil", "16:00", "servia")) +
     createCard("28/11","segunda", createGame("Brazil", "13:00", "suica"))+
     createCard("02/12", "sexta", createGame("Brazil", "16:00", "camaroon"))
